@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OrigamiOuO
+- 👋 Hi, I’m Xiyan Huang, a Master's student at ShanghaiTech University, supervised by Prof. Chenxi Xiao
 - 👀 I’m interested in everything that can change the world or already changed the world!
 - 🌱 I’m currently learning Robotics, VLA and RL
 - 📫 How to reach me origami@shanghaitech.edu.cn
