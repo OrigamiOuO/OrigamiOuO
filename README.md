@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OrigamiOuO
 - 👀 I’m interested in everything that can change the world or already changed the world!
-- 🌱 I’m currently learning Robotics, Deep Learning
+- 🌱 I’m currently learning Robotics, VLA and RL
 - 📫 How to reach me origami@shanghaitech.edu.cn
 
 <!---
